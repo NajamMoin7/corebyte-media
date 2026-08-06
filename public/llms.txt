@@ -1,0 +1,32 @@
+# Core Byte Media
+
+> US-based design, web development, and applied-AI studio. One team for brand design, fast websites, and AI agents that do real work. From first sketch to a shipped, living system.
+
+Website: https://corebytemedia.vercel.app
+Contact: info@corebytemedia.com
+Serves: United States (remote, all states)
+
+## Services and starting prices
+
+- Logo Design (from $45): distinctive logo systems, custom marks, type and lettering, responsive logo families, usage rules. Packages: Essentials $45, Signature $120, Brand Mark $250.
+- Graphic Design (from $45): brand identity and guidelines, marketing and campaign design, print and packaging, pitch decks, social and ad creative. Packages: Single Asset $45, Collateral Pack $250, Design Retainer $600/mo.
+- Web Development (from $200): Next.js and React sites and web apps, headless CMS and e-commerce, performance and accessibility, animation. Packages: Landing Page $200, Business Site $550, Custom Build $1,000.
+- Agentic AI (from $300): AI chatbots and copilots, WhatsApp chatbots, RAG and knowledge assistants, workflow and tool-using agents, deployment and monitoring. Packages: Starter Bot $300, Pro Agent $750, Autonomous Workflow $1,500+.
+
+## How we work
+
+Discovery, then concepts/scope, then build, then ship with handover. Timelines are given before a project starts. Clients own their code and assets. Most move to a monthly retainer after launch.
+
+## Why Core Byte Media
+
+- One team covering design, web, and AI, so the brand, product, and agent speak the same language.
+- Transparent starting prices on every service.
+- Real shipped work, fast turnarounds (a landing page in days, full sites in weeks).
+
+## Pages
+
+- Home: https://corebytemedia.vercel.app
+- Services: https://corebytemedia.vercel.app/services
+- Work / portfolio: https://corebytemedia.vercel.app/work
+- About: https://corebytemedia.vercel.app/about
+- Contact: https://corebytemedia.vercel.app/contact
